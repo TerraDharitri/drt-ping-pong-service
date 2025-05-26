@@ -1,0 +1,10 @@
+chainId: 'T'
+urls:
+  api: 'https://testnet-api.dharitri.org'
+  redis: '127.0.0.1'
+features:
+  cacheWarmer:
+    enabled: true
+    port: 5201
+contracts:
+  pingPong: 'drt1qqqqqqqqqqqqqpgq72l6vl07fkn3alyfq753mcy4nakm0l72396qtytwhc'
